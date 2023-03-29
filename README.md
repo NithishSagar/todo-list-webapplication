@@ -10,7 +10,7 @@ create the data base using the same name given ther to lesser the complexity.
 
 External include file have ben not used in this insted the connection file is included inside the index.php file itself.
 
-#Requirements 
+**Requirements **
 
 Xampp server
 
